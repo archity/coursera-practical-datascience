@@ -1,0 +1,12 @@
+[Executed at: Tue Jul 20 20:27:17 PDT 2021]
+
+========================================================================================================================
+Test 1 passed: Created S3 bucket sagemaker-us-east-1-545359293862 for account 545359293862.
+Test 2 passed: 'aws s3 ls' command was successfully used to view the dataset files in the S3 bucket.
+Test 3 passed: Data was successfully registered with AWS Glue Catalog.
+Test 4 passed: Created table reviews in the AWS Glue Database dsoaws_deep_learning.
+Test 5 passed: SQL query was correctly used to find the total number of the reviews by category.
+Test 6 failed: 'y' was incorrectly defined. 'x' was incorrectly defined. Please try again.
+Test 7 passed: Uploaded four visualization plots into the S3 Bucket sagemaker-us-east-1-545359293862 for account 545359293862.
+Test 8 passed: There was no problem found with the notebook syntax.
+========================================================================================================================
