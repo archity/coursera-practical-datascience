@@ -1,0 +1,11 @@
+[Executed at: Mon Jul 26 9:56:54 PDT 2021]
+
+========================================================================================================================
+Test 1 passed: DataConfig for unbalanced dataset was configured correctly.
+Test 2 passed: Processing job run was setup correctly for unbalanced dataset.
+Test 3 passed: Processing job completed.
+Test 4 passed: DataConfig for balanced dataset was configured correctly.
+Test 5 passed: Processing job run was setup correctly for balanced dataset.
+Test 6 passed: Generated bias report (JSON).
+Test 7 passed: There was no problem found with the notebook syntax.
+========================================================================================================================
